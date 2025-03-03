@@ -2,7 +2,8 @@
 # Author: Muqi Zhang
 # Create Date: Mar 1 2025
 
-"""My digital diary, safely locked away... or is it? If you can break the code, you deserve to read them:) """
+"""My digital diary, safely locked away... or is it? If you can break the code, you deserve to read them :D """
+Hint: I already pushed the header file. 
 
 Date: Mar 1 2025
 Update: 
@@ -15,3 +16,7 @@ Update:
 	Pohlig-Hellman Exponentiation Cipher seems to be more interesting. 
 	The reference textbook is also uploaded. 
 
+Date: Mar 3 2025
+Update:
+	Upload header file (cipher.h)
+	Upload a new personal diary (Mar03.txt)
