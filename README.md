@@ -1,23 +1,15 @@
 # EncryptedDiary Log
 # Author: Muqi Zhang
-# Create Date: Mar 1 2025
+# Create Date: Mar 4 2025
 
 """My digital diary, safely locked away... or is it? If you can break the code, you deserve to read them :D """
 
-Hint: I already pushed the header file. 
+This toolkit provides a simple and efficient way to encrypt and decrypt messages using modular exponentiation. The encryption is based on a randomly generated prime modulus and encryption exponent.
 
-Date: Mar 1 2025
-Update: 
-	Implement encryption and decryption function. 
-	Use some lines as input to test. Work successfully. 
+Files Included
 
-Date: Mar 2 2025
-Update: 
-	Put what I did yesterday into "Try#1" folder. 
-	Pohlig-Hellman Exponentiation Cipher seems to be more interesting. 
-	The reference textbook is also uploaded. 
+* cipher.h – Core encryption and decryption functions.
 
-Date: Mar 3 2025
-Update:
-	Upload header file (cipher.h)
-	Upload a new personal diary (Mar03.txt)
+* prime_utils.h – Random prime and encryption exponent generation utilities.
+
+* main.cpp – Example implementation demonstrating encryption and decryption.
