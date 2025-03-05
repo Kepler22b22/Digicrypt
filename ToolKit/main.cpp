@@ -21,7 +21,7 @@ int main() {
     std::cout << "Computed Decryption Exponent (d): " << d << std::endl;
 
     // Read input message
-    std::string message = read_from_file("input.txt");
+    std::string message = read_from_file("../../input.txt");
     std::vector<long long> plaintext_numbers = text_to_numbers(message);
 
     // Encrypt message
